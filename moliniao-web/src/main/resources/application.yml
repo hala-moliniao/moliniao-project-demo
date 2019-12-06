@@ -1,0 +1,30 @@
+
+spring:
+  application:
+    name: simple-demo-frontend
+  #jdbc_config   datasource
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://10.128.61.6:13309/dian_can_dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
+    type: com.zaxxer.hikari.HikariDataSource
+    username: root
+    password: pc123456
+    hikari:
+      auto-commit: true
+      connection-test-query: SELECT 1
+      connection-timeout: 30000
+      idle-timeout: 30000
+      max-lifetime: 1800000
+      maximum-pool-size: 15
+      minimum-idle: 5
+      pool-name: DatebookHikariCP
+#mapper配置
+mapper:
+  mappers: tk.mybatis.mapper.common.Mapper
+  not-empty: true
+#mybatis配置
+mybatis:
+  mapper-locations: classpath:mapper/**/*.xml
+  type-aliases-package: com.moliniao.*.entity.**
+server:
+  port: 8087
