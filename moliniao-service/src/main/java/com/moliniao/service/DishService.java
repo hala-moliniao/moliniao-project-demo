@@ -12,4 +12,6 @@ import java.util.List;
 public interface DishService {
 
     List<Dish> listDishInfo();
+
+    Boolean addDish();
 }

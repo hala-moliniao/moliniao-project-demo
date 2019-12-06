@@ -25,4 +25,9 @@ public class DishServiceImpl implements DishService {
     public List<Dish> listDishInfo() {
         return dishMapper.selectAll();
     }
+
+    @Override
+    public Boolean addDish() {
+        return true;
+    }
 }
