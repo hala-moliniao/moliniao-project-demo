@@ -6,20 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="moliniao-repo" />
-        <module name="moliniao-common" />
-        <module name="moliniao-web" />
-        <module name="moliniao-service" />
+        <module name="moliniao-project-repo" />
+        <module name="moliniao-project-service" />
+        <module name="moliniao-project-common" />
+        <module name="moliniao-project-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="moliniao-common" options="-parameters" />
-      <module name="moliniao-repo" options="-parameters" />
-      <module name="moliniao-service" options="-parameters" />
-      <module name="moliniao-web" options="-parameters" />
+      <module name="moliniao-project-common" options="-parameters" />
+      <module name="moliniao-project-repo" options="-parameters" />
+      <module name="moliniao-project-service" options="-parameters" />
+      <module name="moliniao-project-web" options="-parameters" />
     </option>
   </component>
 </project>

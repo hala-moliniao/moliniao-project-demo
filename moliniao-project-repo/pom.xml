@@ -10,15 +10,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.moliniao</groupId>
-    <artifactId>moliniao-repo</artifactId>
+    <artifactId>moliniao-project-repo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <dependencies>
-        <dependency>
-            <groupId>com.moliniao</groupId>
-            <artifactId>moliniao-common</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
         <dependency>
             <groupId>tk.mybatis</groupId>
             <artifactId>mapper-spring-boot-starter</artifactId>
