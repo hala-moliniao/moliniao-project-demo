@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="moliniao-project-repo" />
+        <module name="moliniao-project-web" />
         <module name="moliniao-project-service" />
         <module name="moliniao-project-common" />
-        <module name="moliniao-project-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

@@ -3,27 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9bc19970-27bd-4d37-bc16-1b526d77d07d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-common/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-common/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-common/src/main/java/com/moliniao/ShelvesStatusEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-common/src/main/java/com/moliniao/ShelvesStatusEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-repo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-repo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-repo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-repo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-repo/src/main/java/com/moliniao/entity/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-repo/src/main/java/com/moliniao/entity/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-repo/src/main/java/com/moliniao/mapper/DishMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-repo/src/main/java/com/moliniao/mapper/DishMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-repo/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-repo/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-repo/src/main/resources/mapper/DishMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-repo/src/main/resources/mapper/DishMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-service/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-service/src/main/java/com/moliniao/service/DishService.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-service/src/main/java/com/moliniao/service/DishService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-service/src/main/java/com/moliniao/service/impl/DishServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-service/src/main/java/com/moliniao/service/impl/DishServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-service/src/test/java/com/moliniao/MoliniaoServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-service/src/test/java/com/moliniao/MoliniaoServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-web/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-web/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-web/src/main/java/com/moliniao/MoliniaoWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-web/src/main/java/com/moliniao/MoliniaoWebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-web/src/main/java/com/moliniao/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-web/src/main/java/com/moliniao/controller/DishController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moliniao-web/src/test/java/com/moliniao/MoliniaoWebApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/moliniao-project-web/src/test/java/com/moliniao/MoliniaoWebApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/cloudwalk/刷脸餐饮项目/restaurant-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -96,53 +75,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.MoliniaoWebApplication">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="moliniao-project-common" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="moliniao-project-common" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MoliniaoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="moliniao-project-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.moliniao.MoliniaoServiceApplication" />
@@ -171,7 +103,7 @@
       <workItem from="1575629471734" duration="5099000" />
       <workItem from="1575634592576" duration="391000" />
       <workItem from="1575642542928" duration="1463000" />
-      <workItem from="1576224572652" duration="826000" />
+      <workItem from="1576224572652" duration="1161000" />
     </task>
     <task id="LOCAL-00001" summary="新增dish">
       <created>1575645217887</created>
@@ -180,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575645217887</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改项目模块名称">
+      <created>1576225441481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576225441481</updated>
+    </task>
+    <task id="LOCAL-00003" summary="配置url统一前缀">
+      <created>1576225626962</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576225626962</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +147,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增dish" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增dish" />
+    <MESSAGE value="修改项目模块名称" />
+    <MESSAGE value="配置url统一前缀" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置url统一前缀" />
   </component>
 </project>
