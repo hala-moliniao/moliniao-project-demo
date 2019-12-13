@@ -1,4 +1,7 @@
-
+server:
+  port: 8087
+  servlet:
+    context-path: /api
 spring:
   application:
     name: simple-demo-frontend
@@ -26,5 +29,4 @@ mapper:
 mybatis:
   mapper-locations: classpath:mapper/**/*.xml
   type-aliases-package: com.moliniao.*.entity.**
-server:
-  port: 8087
+
